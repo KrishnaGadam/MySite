@@ -1,2 +1,2 @@
 # MySite
-It is portfolio website
+It is a Portfolio Website
